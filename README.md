@@ -1,4 +1,4 @@
-# Minha aplicação
+# Minha Aplicação
 
 Aplicação simples em FastAPI, desenvolvida como exercício prático durante uma aula de DevOps do curso de pós-graduação em Ciência da Computação da UFLA.
 
